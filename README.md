@@ -1,4 +1,4 @@
-salehan Mobile
+moodle Mobile
 =================
 
 This is the primary repository of source code for the official Moodle Mobile app.
